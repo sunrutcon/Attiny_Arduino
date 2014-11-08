@@ -3,6 +3,8 @@ Attiny_Arduino
 
 Hardware for attiny chips to work with arduino IDE.
 
+To work with Arduino IDE and Attiny download 'hardware' folder and paste it in your sketchbook folder, restart Arduino IDE and there it should be Attiny under boards.
+
 I have found this setup on :
 http://elabz.com/arduino-shrunk-how-to-use-attiny13-with-arduino-ide/
 
